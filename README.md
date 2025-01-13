@@ -1,7 +1,7 @@
 # Source-i18n
 
-This is a fork of the https://github.com/TryGhost/Source theme to add translations.
-Only translations are accepted as pull/merge-requests.
+:warning: This is a fork of the https://github.com/TryGhost/Source theme to add translations.
+Only translations are accepted as pull/merge-requests. :warning:
 
 For other changes, please propose your change to the upstream:
 https://github.com/TryGhost/Source
