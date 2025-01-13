@@ -1,3 +1,12 @@
+# Source-i18n
+
+This is a fork of the https://github.com/TryGhost/Source theme to add translations.
+Only translations are accepted as pull/merge-requests.
+
+For other changes, please propose your change to the upstream:
+https://github.com/TryGhost/Source
+
+
 # Source
 
 The default theme for [Ghost](http://github.com/tryghost/ghost/). This is a fork of the development version of Source with some customization. Especially the theme was made translateable.
